@@ -1,0 +1,6 @@
+node_modules/
+dist/
+target/
+.multi-claude/worktrees/
+.multi-claude/workers/
+*.db
