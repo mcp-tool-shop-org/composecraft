@@ -4,3 +4,5 @@ target/
 .multi-claude/worktrees/
 .multi-claude/workers/
 *.db
+*.tsbuildinfo
+.vite/
